@@ -7,8 +7,7 @@
     "test": "mocha *.test.js"
   },
   "keywords": [],
-  "author": "Ron Perris <ron@npmjs.com>",
-  "license": "ISC",
+  "author": "Ron Perris <ron@perr.is>",
   "dependencies": {
     "cheerio": "^1.0.0-rc.5",
     "node-fetch": "^2.6.1",

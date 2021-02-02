@@ -1,0 +1,25 @@
+{
+  "name": "install-attack-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "keywords": [],
+  "author": "Ron Perris <ron@npmjs.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "node-fetch": "^2.6.1",
+    "pino": "^6.11.0",
+    "redis": "^3.0.2",
+    "semver": "^7.3.4",
+    "tabletojson": "^2.0.4",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
